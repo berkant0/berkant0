@@ -1,3 +1,1 @@
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=berkant0&count_private=true&show_icons=true&theme=radical" />
-
-
+<h2>Hello, I am Berkant and I am developing myself to be an iOS developer.<h2>
