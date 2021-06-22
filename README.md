@@ -1,1 +1,3 @@
-<h2>Hello, I am Berkant and I am developing myself to be an iOS developer.<h2>
+<b>Hello, I am Berkant 👋
+  <p>I'm 17 years old and I'm developing myself to be an iOS developer.<p><b>
+  
