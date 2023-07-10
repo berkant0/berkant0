@@ -1,3 +1,1 @@
-<b>Hello, I am Berkant 👋
-  <p>I'm 18 years old and I'm developing myself to be an iOS developer.<p><b>
-  
+<b>Hello, I am Berkant 👋 <p>I am working as an iOS Developer. I also develop apps in my own app store account.<p><b>
